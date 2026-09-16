@@ -1,0 +1,23 @@
+# ---------------------------------------------------------------------------
+# Required
+# ---------------------------------------------------------------------------
+pydantic>=2.13.5
+
+# ---------------------------------------------------------------------------
+# Optional: real LLM providers
+# Uncomment to use OpenAI / Anthropic instead of the built-in deterministic
+# offline policy model. Provider selection + keys are read from `.env`
+# (see `.env.example`); the agent degrades gracefully when they are missing.
+# ---------------------------------------------------------------------------
+# openai>=1.40
+# anthropic>=0.34
+# python-dotenv>=1.0
+
+# ---------------------------------------------------------------------------
+# Optional: tests and evaluation
+# The test suite also runs with the standard library alone:
+#   python -m unittest discover -s tests -v
+# ---------------------------------------------------------------------------
+# pytest>=8
+# pytest-asyncio>=0.23
+

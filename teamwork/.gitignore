@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Secrets
+.env
+
+# Local agent session checkpoints
+runs/
+runs-test/
+
+# Generated artifacts
+case_results.csv
+
+# IDE
+.idea/
+.vscode/
