@@ -1,6 +1,8 @@
 # ReproJourney 孕产风险与治理智能体（Agent 4 / Agent 5 / ReAct 主智能体）
 
 > 文档索引：[整体流程图 `docs/FLOWCHART.md`](docs/FLOWCHART.md) ·
+> [Agent 4 工作流程图（含示例输入走查） `docs/AGENT4_WORKFLOW.md`](docs/AGENT4_WORKFLOW.md) ·
+> [Agent 5 工作流程图（含示例输入走查） `docs/AGENT5_WORKFLOW.md`](docs/AGENT5_WORKFLOW.md) ·
 > [架构与安全设计 `docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) ·
 > [开发标准落地与偏差登记 `docs/AGENT_STANDARD.md`](docs/AGENT_STANDARD.md) ·
 > [评估报告 `evaluation/report.md`](evaluation/report.md)
